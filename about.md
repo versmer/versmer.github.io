@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The idea of Decentra School is based on [Progressive Decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) 
+The idea of Decentra School is based on [Progressive Decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/), which serves as a market place owned and operted by the community of users. 
 
 [Advice Auctions](http://nikete.com/advice_auctions.pdf) may be the mechanism that enables market driven decision making. It is based on an old and simple idea, giving your advisors a share of the reward, with an algorithmic twist of facilitating the advisors themselves seeking advice in the same way recursively.  The space these markets work over is explcitly not expectations over actions but instead the selection of a good policy for making them. This makes auditing the advice posible, as well as evaluating it's counter-factual performance. 
 
