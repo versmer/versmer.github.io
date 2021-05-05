@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The idea of Decentra School is based on [Progressive Decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/), which
+The idea of Decentra School is based on [Progressive Decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/), which serves as a marketplace owned and operated by the community of users and, in the long term, allows the users to get more control over the platform as they scale. 
 
 How to set up good incentives for information that guides choosing the best action is a crucial challenge for collective cognition. It has received mostly scholarly attention on the literature around _Decision Markets_. Decision markets  seek to both predict and decide the future. They differ from more traditional markets such as betting (“prediction markets”) in that they seek to influence the object of their attention instead of merely being influenced by it. 
 
