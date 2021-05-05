@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+The idea of Decentra School is based on [progressive decentralization] (https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/). 
+
 [Advice Auctions](http://nikete.com/advice_auctions.pdf) may be the mechanism that enables market driven decision making. It is based on an old and simple idea, giving your advisors a share of the reward, with an algorithmic twist of facilitating the advisors themselves seeking advice in the same way recursively.  The space these markets work over is explcitly not expectations over actions but instead the selection of a good policy for making them. This makes auditing the advice posible, as well as evaluating it's counter-factual performance. 
 
 Recently [Osterheld and Conitzer](https://users.cs.duke.edu/~conitzer/decisionWINE20.pdf) show a fundamental limit to elicitation for decision making, only the best action and it’s expected reward are elicitable. Advice auctions match this precisely, further they are able to deal with complementary information distributed between different experts, something that betting mechanisms used prediction markets fail at.
